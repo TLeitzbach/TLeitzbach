@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Thilo's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=Tleitzbach&&show_icons=true&theme=tokyonight)](https://github.com/Tleitzbach/github-readme-stats)
+<!-- [![Thilo's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=Tleitzbach&&show_icons=true&theme=tokyonight)](https://github.com/Tleitzbach/github-readme-stats)
 
 <!--
 **TLeitzbach/TLeitzbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
